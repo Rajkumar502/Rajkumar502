@@ -81,15 +81,4 @@ Multimodal assistant (CLIP, FAISS, Florence-2) for auto-captioning, natural lang
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkumar502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkumar502&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar502&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 <p align="center"><i>Finding the business problem first, then building the AI that solves it.</i></p>
